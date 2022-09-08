@@ -1,8 +1,10 @@
 ## React Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Walkthrough Video https://drive.google.com/file/d/1QjQlyzfMzV8yAMP14OrCCzMdk3QlFE1s/view
+## Walkthrough Video 
+[Walkthrough](https://drive.google.com/file/d/1QjQlyzfMzV8yAMP14OrCCzMdk3QlFE1s/view)
 
 
 ## Available Scripts
@@ -16,3 +18,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+## Description
+This is my React portfolio used to showcase my skills, projects, 
+
+## Table of Contents
+- [Installation](#Installation)  
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
+
+
+## Questions
+Github username: [TEkdahl92](https://github.com/TEkdahl92) <br>
+Email: troypekdahl@gmail.com
+
