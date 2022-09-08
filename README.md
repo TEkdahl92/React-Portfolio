@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+## React Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Walkthrough Video https://drive.google.com/file/d/1QjQlyzfMzV8yAMP14OrCCzMdk3QlFE1s/view
+
 
 ## Available Scripts
 
