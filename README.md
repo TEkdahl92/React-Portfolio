@@ -21,14 +21,7 @@ You may also see any lint errors in the console.
 
 
 ## Description
-This is my React portfolio used to showcase my skills, projects, 
-
-## Table of Contents
-- [Installation](#Installation)  
-- [Usage](#Usage)
-- [License](#License)
-- [Contributing](#Contributing)
-- [Questions](#Questions)
+This is my React portfolio used to showcase my skills, projects and connect you with me to ask any more questions or if you want to collaborate.
 
 
 ## Questions
