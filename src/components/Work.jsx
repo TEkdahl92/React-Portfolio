@@ -24,15 +24,15 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Express js challenge
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://note-taker-tekdahl92.herokuapp.com/' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/TEkdahl92/Express.js-Challenge-Note-Taker' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -47,15 +47,15 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                SQL Employee Tracker
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://drive.google.com/file/d/1g8ho2lCXcGfeYRo77vufmhN-9vqpL9Xy/view' target ="_blank"> 
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/TEkdahl92/SQL-Challenge-Employee-Tracker' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -71,15 +71,15 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Full Stack Project
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://getting-up-rpg.herokuapp.com/' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/codewizard-dt/getting-up-rpg' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
