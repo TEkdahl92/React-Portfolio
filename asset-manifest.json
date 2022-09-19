@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.c848184a.css",
-    "main.js": "/React-Portfolio/static/js/main.fc3f0a24.js",
+    "main.js": "/React-Portfolio/static/js/main.f6137700.js",
     "static/media/TEkdahl-Logo.png": "/React-Portfolio/static/media/TEkdahl-Logo.c26d486ebc9e03c0d659.png",
     "static/media/react.png": "/React-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/React-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio/index.html",
     "main.c848184a.css.map": "/React-Portfolio/static/css/main.c848184a.css.map",
-    "main.fc3f0a24.js.map": "/React-Portfolio/static/js/main.fc3f0a24.js.map"
+    "main.f6137700.js.map": "/React-Portfolio/static/js/main.f6137700.js.map"
   },
   "entrypoints": [
     "static/css/main.c848184a.css",
-    "static/js/main.fc3f0a24.js"
+    "static/js/main.f6137700.js"
   ]
 }
