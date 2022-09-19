@@ -97,12 +97,12 @@ const Work = () => {
                 README Generator
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://drive.google.com/file/d/1UmDEHzcF_nDqUdTczi0ugN2aQGJQZvRt/view'>
+                <a href='https://drive.google.com/file/d/1UmDEHzcF_nDqUdTczi0ugN2aQGJQZvRt/view' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/TEkdahl92/Challenge09'>
+                <a href='https://github.com/TEkdahl92/Challenge09' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -121,12 +121,12 @@ const Work = () => {
                 Weather Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://tekdahl92.github.io/Challenge06/'>
+                <a href='https://tekdahl92.github.io/Challenge06/' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/TEkdahl92/Challenge06'>
+                <a href='https://github.com/TEkdahl92/Challenge06' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -144,12 +144,12 @@ const Work = () => {
                 Get Lit Book App
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://get-lit-book-clubs.herokuapp.com/'>
+                <a href='https://get-lit-book-clubs.herokuapp.com/' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/SierraNN/Get-Lit'>
+                <a href='https://github.com/SierraNN/Get-Lit' target ="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
